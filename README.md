@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paweł
 - 👀 I’m interested in body building, diets, games and programming. 
-- 🌱 I’m currently learning JS, HTML and CSS with courses.
-- 🎓 I'm studying Computer Science at Polish-Japanese Institute Of Technology and currently learning C++ and Java.
+- 🌱 I’m currently working as Junior Data Science and improving skills in it.
+- 🎓 I'm studying Computer Science at Polish-Japanese Institute Of Technology and currently improving Java skills and basics of JS.
 - 📫 How to reach me -> pawelgawrysiak1230@gmail.com
 
 <!---
