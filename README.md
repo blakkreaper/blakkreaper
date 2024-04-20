@@ -1,8 +1,18 @@
 - 👋 Hi, I’m Paweł
-- 👀 I’m interested in body building, diets, games and programming. 
-- 🌱 I’m currently working as Junior Data Science and improving skills in it.
-- 🎓 I'm studying Computer Science at Polish-Japanese Institute Of Technology and currently improving Python, SQL, MS SQL Server and API.
-- 📫 How to reach me -> pawelgawrysiak1230@gmail.com
+- 👀 I’m interested in board games, computer games and programming. 
+
+🎓 Professional and Educational Background:
+
+Current Position: Data Engineer
+Education: Studying Computer Science at Polish-Japanese Institute of Technology
+Technological Stack:
+
+Programming Languages: Python, SQL, Java
+Databases: MS SQL Server, PostgreSQL
+Data Engineering Tools: Kedro, Dagster, Dataiku
+Data Processes: AI Modeling, ETL (Extract, Transform, Load)
+APIs: REST API, GraphQL
+Microsoft Technologies: Microsoft Power Apps, Microsoft Power Automate
 
 <!---
 blakkreaper/blakkreaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
